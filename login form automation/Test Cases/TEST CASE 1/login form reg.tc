@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login form reg</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e603e113-71b1-40b4-b66d-6cda0fd24251</testCaseGuid>
+   <variable>
+      <defaultValue>'chofuri'</defaultValue>
+      <description></description>
+      <id>8ac92a77-ee42-49ae-abe2-0cf25d757e11</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'eric'</defaultValue>
+      <description></description>
+      <id>1b72e79b-a885-46f1-8a6d-51bf460a0c80</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
